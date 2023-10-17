@@ -199,7 +199,7 @@
                 '      <div class="modal-header">\n' +
                 '        <h5 class="modal-title" id="exampleModalLabel"></h5>\n' +
                 '        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close">\n' +
-                '          <span aria-hidden="true">&times;</span>\n' +
+                '          <span aria-hidden="true"></span>\n' +
                 '        </button>\n' +
                 '      </div>\n' +
                 '      <div class="modal-body">\n' +
