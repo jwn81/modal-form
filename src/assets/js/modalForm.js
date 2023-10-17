@@ -198,7 +198,7 @@
                 '    <div class="modal-content">\n' +
                 '      <div class="modal-header">\n' +
                 '        <h5 class="modal-title" id="exampleModalLabel"></h5>\n' +
-                '        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close">\n' +
+                '        <button type="button" class="btn-close" data-dismiss="modal" aria-label="Close" onclick="$(\'.modal\').modal({\'hide\'})">\n' +
                 '          <span aria-hidden="true"></span>\n' +
                 '        </button>\n' +
                 '      </div>\n' +
